@@ -78,7 +78,9 @@ Server will start at: http://localhost:5000
 
 📝 Author API
 
-👉 Example POST /api/authors Request Body:
+👉 Example GET /api/authors :
+
+Result:
 
 {
   "name": "John Doe",
